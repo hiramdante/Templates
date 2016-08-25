@@ -3,16 +3,22 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "myStorageAccount"
+      "value": "hcstaccount"
     },
     "adminUsername": {
-      "value": "admin123"
+      "value": "hiram"
     },
     "adminPassword": {
-      "value": "ADmin123_!"
+      "value": "Passw0rd"
     },
     "dnsNameForPublicIP": {
-      "value": "myDnsName"
+      "value": "hdcr1234"
+    },
+    "location": {
+      "value": "West US"
+    },
+    "sizeOfDiskInGB": {
+      "value": "20"
     }
   }
 }
